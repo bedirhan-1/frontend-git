@@ -7,3 +7,5 @@
 // girdilerinin içerik kontrolünü yapan ve
 // yanlış bir email veya eksik karakterli bir password'ün
 // uyarı bilgilerini kullanıcıya bildiren kod
+// refactor ettim bazı şeyleri ve artık daha hızlı
+// çalışan bir yapı var elimizde
