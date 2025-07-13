@@ -9,3 +9,5 @@
 // uyarı bilgilerini kullanıcıya bildiren kod
 // refactor ettim bazı şeyleri ve artık daha hızlı
 // çalışan bir yapı var elimizde
+
+// some changes
